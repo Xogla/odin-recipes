@@ -1,0 +1,45 @@
+body {
+    background-color: pink;
+    padding: 0;
+    margin: 0;
+    position: center;
+}
+
+.friedrice{
+    background-color: yellow;
+    margin:20px;
+    padding:10px;
+    height: auto;
+    width:75px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: red;
+}
+
+
+
+.kfc{
+    background-color: yellow;
+    margin:20px;
+    padding:10px;
+    height: auto;
+    width:75px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: red;
+}
+
+.bb{
+    background-color: yellow;
+    margin:20px;
+    padding:10px;
+    height: auto;
+    width:75px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: red;
+}
+
+
+
+
